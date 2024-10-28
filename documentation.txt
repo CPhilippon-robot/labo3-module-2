@@ -1,0 +1,42 @@
+Quelles sont les entrées (input) faites par l'utilisateur ? 
+Nommer les variables
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+
+Quelles est la sortie principale (finale) affichée à l'utilisateur ?
+Décrivez-la 
+1.
+
+*Pour le niveau bronze, formulez les conditions pour les question 2-3-4.*
+
+Prenez l'exemple suivant : 
+1. Pour reponse1 
+Si sa valeur est égale à "H" ou est égale à "F", alors sa valeur reste la même. 
+Sinon, nous demandons à l'utilisateur de répondre adéquatement
+
+2. Pour reponse2 
+
+3. Pour reponse3 
+
+4. Pour reponse4 
+
+*Pour le niveau argent, nommez 3 impossibilités (ou optimisations possibles) et la formulation des conditions associées*
+1.
+Condition(s) :
+
+2.
+Condition(s) :
+
+3.
+Condition(s) :
+
+*Pour le niveau or, expliquez comment vous vous y prendrez pour implémenter la première question aléatoire*
+Votre stratégie : 
